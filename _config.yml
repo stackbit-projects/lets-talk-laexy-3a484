@@ -50,7 +50,7 @@ header:
       style: icon
       icon_class: dev
       new_window: true
-  background_img: images/nervous-lettuce.png
+  background_img: images/d48a169d63ea540c528e985fb85589aa.png
 footer:
   content: >-
     &copy; Stackbit. All rights reserved. This Jamstack site was created on <a
