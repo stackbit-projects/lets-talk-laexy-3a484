@@ -6,11 +6,9 @@ collections:
     permalink: '/posts/:title/'
 palette: yellow
 header:
-  title: Fjord
+  title: Lets Talk Laexy
   tagline: fühl dich wie Zuhause
-  logo_img: images/logo.svg
   logo_img_alt: Lets Talk Laexy
-  background_img: images/header-bg.jpg
   has_nav: true
   nav_links:
     - label: Home
@@ -52,6 +50,7 @@ header:
       style: icon
       icon_class: dev
       new_window: true
+  background_img: images/nervous-lettuce.png
 footer:
   content: >-
     &copy; Stackbit. All rights reserved. This Jamstack site was created on <a
