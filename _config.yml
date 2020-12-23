@@ -10,7 +10,6 @@ header:
   tagline: fühl dich wie Zuhause
   logo_img: images/logo.svg
   logo_img_alt: Lets Talk Laexy
-  background_img: images/header-bg.jpg
   has_nav: true
   nav_links:
     - label: Home
